@@ -9,6 +9,8 @@ class Enana
 
     public function __construct($a1,$a2)
     {
+        #El constructor tiene tan solo 2 parámetros. No añadas más.
+        #Deberás de completar situación dependiendo de puntosVida.
         $this->nombre=$a1;
         $this->puntosVida=$a2;
         $this->situacion="muerta";
