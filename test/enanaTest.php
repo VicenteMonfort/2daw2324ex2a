@@ -37,6 +37,13 @@ class EnanaTest extends TestCase {
 
     }
 
+    public function testPocimaNoRevive() {
+        
+        #Se probará el efecto de administrar una pócima a una Enana en el libo
+        #Se tendrá que probar que la vida y situación no ha cambiado
+
+    }
+
     public function testPocimaExtraLimbo() {
        
         #Se probará el efecto de administrar una pócima Extra a una Enana en el limbo.
